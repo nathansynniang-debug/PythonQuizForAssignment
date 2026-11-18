@@ -1,0 +1,33 @@
+# Trivia question bank
+# Format: QUESTION|OPTION 1|OPTION 2|OPTION 3|OPTION 4|CORRECT OPTION NUMBER (1-4)
+# Keep each question on one line. Do not use the | character inside question or option text.
+Which animal is known as the King of the Jungle?|Tiger|Lion|Elephant|Leopard|2
+How many hearts does an octopus have?|1|2|3|4|3
+Which country is famous for inventing modern pizza?|France|Italy|USA|Greece|2
+What is the national animal of Scotland?|Lion|Dragon|Unicorn|Horse|3
+Which planet is known as the Red Planet?|Venus|Jupiter|Mars|Saturn|3
+What is the fastest land animal?|Lion|Cheetah|Horse|Leopard|2
+Which gas do plants absorb from the atmosphere?|Oxygen|Nitrogen|Carbon dioxide|Hydrogen|3
+What does WWW stand for?|World Wide Web|World Web Window|Wide World Website|Web World Wide|1
+Which is the hardest naturally occurring substance?|Gold|Iron|Diamond|Quartz|3
+How many bones are typically in an adult human body?|106|206|306|406|2
+What is the name of Harry Potter's school?|Narnia|Hogwarts|Nevermore|Camelot|2
+Which superhero is also known as the Dark Knight?|Superman|Iron Man|Batman|Spider-Man|3
+What is the name of the snowman in Frozen?|Sven|Olaf|Kristoff|Hans|2
+Which character lives in a pineapple under the sea?|Patrick|Squidward|SpongeBob|Nemo|3
+Which Indian film features the dialogue "Mogambo Khush Hua"?|Sholay|Mr. India|Don|Deewar|2
+Which fruit has its tiny seeds on the outside?|Apple|Strawberry|Banana|Mango|2
+Which food can remain edible for a very long time when properly stored?|Milk|Bread|Honey|Lettuce|3
+What is the main ingredient in guacamole?|Cucumber|Avocado|Spinach|Peas|2
+Which animal has fingerprints remarkably similar to human fingerprints?|Koala|Panda|Giraffe|Kangaroo|1
+Which mammal is capable of true powered flight?|Flying squirrel|Bat|Penguin|Ostrich|2
+How many players from one team are on the field in a standard football match?|9|10|11|12|3
+In which sport would you perform a slam dunk?|Volleyball|Basketball|Tennis|Badminton|2
+What is the highest score possible with a single dart?|20|40|50|60|4
+If you overtake the person in second place in a race, what position are you in?|First|Second|Third|Last|2
+How many months have at least 28 days?|1|2|6|12|4
+What is the fear of spiders called?|Claustrophobia|Arachnophobia|Acrophobia|Hydrophobia|2
+Which animal cannot jump?|Elephant|Rabbit|Kangaroo|Frog|1
+What is the smallest country in the world by area?|Monaco|Maldives|Vatican City|Singapore|3
+From an evolutionary perspective, which came first?|The modern chicken|The egg|Both at the same time|Neither|2
+What colour are the flight data recorders commonly called 'black boxes'?|Black|Grey|Bright orange|Blue|3
